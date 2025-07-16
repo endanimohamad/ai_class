@@ -1,0 +1,1824 @@
+{
+    "posts": [
+        {
+            "id": "98611478695",
+            "title": "ارزون‌ترین ماوس بی‌سیم!",
+            "caption": "در حد قیمتش واقعاً عالیه!\nخیلی وقت‌ها ارزان‌ترین بودن به معنای پایین‌ترین کیفیت و کارایی کمتر نیست...",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                26
+            ],
+            "tag_ids": [
+                11262,
+                2502,
+                1,
+                27731
+            ],
+            "user_setting_id": "185114339183",
+            "related_product_ids": [
+                17753882,
+                11788793,
+                1002387,
+                1066298,
+                16227666,
+                18341619,
+                6789035,
+                18030691,
+                10303888,
+                1090679,
+                1423235,
+                15098243,
+                5809942,
+                13195154,
+                10307816,
+                1022228,
+                1064277
+            ],
+            "views_count": 46034,
+            "likes_count": 320,
+            "comments_count": 13,
+            "created_at": "2025-06-17 22:28:18",
+            "author": {
+                "id": "185114339183",
+                "name": "سجاد آینه چی",
+                "username": "sajjadayenechi",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/42b5ac025558fc5c2b83ce26bd35a5b56feddcfd_1740581920.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1279852,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/5qgVRrVyK1/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5625,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b8a6dedf7e44bb68960df2253eebd79dbb520b0_1750224175.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b8a6dedf7e44bb68960df2253eebd79dbb520b0_1750224175.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b8a6dedf7e44bb68960df2253eebd79dbb520b0_1750224175.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 11262,
+                    "title": "خرید_با_چشمان_باز"
+                },
+                {
+                    "id": 2502,
+                    "title": "ماوس"
+                },
+                {
+                    "id": 1,
+                    "title": "پیشنهاد_خرید"
+                },
+                {
+                    "id": 27731,
+                    "title": "سجاد_آینه_چی"
+                }
+            ],
+            "products": [
+                {
+                    "id": 17753882,
+                    "title_fa": "ماوس بی سیم مدل 4D",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/534bc8420c2206086732080c872d22084ea68e16_1734767278.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1452300,
+                        "rrp_price": 1452300,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 11788793,
+                    "title_fa": "ماوس بی سیم مدل Features 4D",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/ff8f397da544bd51fed9bb904986a59272f17afd_1687858297.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1405500,
+                        "rrp_price": 1405500,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 1002387,
+                    "title_fa": "ماوس بی سیم مدل 4D",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/4751025.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1455000,
+                        "rrp_price": 1615000,
+                        "discount_percent": 10
+                    }
+                },
+                {
+                    "id": 1066298,
+                    "title_fa": "ماوس بی سیم مدل 24G",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/5043547.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1500000,
+                        "rrp_price": 1500000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 16227666,
+                    "title_fa": "ماوس بی سیم مدل RF5084",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/b41b16662668a57e396edec4721bde6266986ad7_1722272582.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 2190000,
+                        "rrp_price": 3000000,
+                        "discount_percent": 27
+                    }
+                },
+                {
+                    "id": 18341619,
+                    "title_fa": "ماوس بی سیم مدل AP",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/1e32e3e167c10935293caa8e70cd4b5f6d39aeb7_1740064192.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1730000,
+                        "rrp_price": 1730000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 6789035,
+                    "title_fa": "ماوس بی سیم مدل A10",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/847adb33801051e06e889b766d199402398f4afd_1636182154.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1750000,
+                        "rrp_price": 1750000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 18030691,
+                    "title_fa": "ماوس بی سیم مدل Magic",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/2c669b588e5e24f261e87eaef2863f2435908404_1741171533.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1750000,
+                        "rrp_price": 1750000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 10303888,
+                    "title_fa": "ماوس بی سیم مدل 4D",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/ff5545f155cc0b32cfffc2c93170096e7f44a272_1672412644.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1456000,
+                        "rrp_price": 2400000,
+                        "discount_percent": 39
+                    }
+                },
+                {
+                    "id": 1090679,
+                    "title_fa": "ماوس بی سیم مدل AK002",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/5166819.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1581000,
+                        "rrp_price": 2030000,
+                        "discount_percent": 22
+                    }
+                },
+                {
+                    "id": 1423235,
+                    "title_fa": "ماوس بی سیم مدل BAMA116",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/110110672.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1800000,
+                        "rrp_price": 1800000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 15098243,
+                    "title_fa": "ماوس بی سیم مدل radiu",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/1f6163862eea3fd07f8fce1d812c2054313d4f93_1713024781.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1533000,
+                        "rrp_price": 1980000,
+                        "discount_percent": 23
+                    }
+                },
+                {
+                    "id": 5809942,
+                    "title_fa": "ماوس بی سیم مدل 2.4",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/c080caef3aaa4ee85e7162c543eaaa14c92172e1_1626846921.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 2013000,
+                        "rrp_price": 2013000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 13195154,
+                    "title_fa": "ماوس بی سیم مدل MWC",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/d486eedc101711a1006cbfe44e24ea0a1fb7f432_1699127324.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1540000,
+                        "rrp_price": 1540000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 10307816,
+                    "title_fa": "ماوس بی سیم مدل M502",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/4b41de0f68584789f8070cb9511ce7f2f539db19_1672464834.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1533000,
+                        "rrp_price": 1850000,
+                        "discount_percent": 17
+                    }
+                },
+                {
+                    "id": 1022228,
+                    "title_fa": "ماوس بی سیم مدل PK",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/4806588.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1542000,
+                        "rrp_price": 1800000,
+                        "discount_percent": 14
+                    }
+                },
+                {
+                    "id": 1064277,
+                    "title_fa": "ماوس بی سیم مدل M-05",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/5085015.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1890000,
+                        "rrp_price": 1890000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/98611478695/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b8a6dedf7e44bb68960df2253eebd79dbb520b0_1750224175.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "4711186003",
+            "title": "براش شور ادایی",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                6484
+            ],
+            "tag_ids": [
+                24016,
+                11262,
+                1
+            ],
+            "user_setting_id": "130118891755",
+            "related_product_ids": [
+                15819408
+            ],
+            "views_count": 4149,
+            "likes_count": 28,
+            "comments_count": 2,
+            "created_at": "2025-07-11 02:59:59",
+            "author": {
+                "id": "130118891755",
+                "name": "سحر جانباز",
+                "username": "cosmuty_",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/c3b83574c7f24347f79847a46ebb605165fa6fa5_1724026718.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281723,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/6lYLw6vXBP/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5627,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/81954777fcdd26be2a6a49b1e34cf04da07e0ff6_1752190199.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/81954777fcdd26be2a6a49b1e34cf04da07e0ff6_1752190199.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/81954777fcdd26be2a6a49b1e34cf04da07e0ff6_1752190199.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 24016,
+                    "title": "سحر_جانباز"
+                },
+                {
+                    "id": 11262,
+                    "title": "خرید_با_چشمان_باز"
+                },
+                {
+                    "id": 1,
+                    "title": "پیشنهاد_خرید"
+                }
+            ],
+            "products": [
+                {
+                    "id": 15819408,
+                    "title_fa": "دستگاه شستشوی برس و پد آرایشی مدل A1",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/1fd4490395d2fe3080b4281f081fdc05f990d3e0_1719415469.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 3350700,
+                        "rrp_price": 3350700,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/4711186003/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/81954777fcdd26be2a6a49b1e34cf04da07e0ff6_1752190199.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "151115182787",
+            "title": "خیلی ارزون و خیلی کاربردی!",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                81
+            ],
+            "user_setting_id": "183110521829",
+            "related_product_ids": [
+                1915655
+            ],
+            "views_count": 2998,
+            "likes_count": 14,
+            "comments_count": 3,
+            "created_at": "2025-07-10 12:53:59",
+            "author": {
+                "id": "183110521829",
+                "name": "محمد یوسفی زاده ",
+                "username": "Yousefizadeh",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2870ce5d631efc7989193ee7adea81213230ea42_1733140542.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281636,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/qPpM5eMz7W/h_,360_690,480_690,k.mp4.list/master.m3u8",
+                    "ratio": 0.6667,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f129692dfa32274e34ecf96680461a559623ca4f_1752139392.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f129692dfa32274e34ecf96680461a559623ca4f_1752139392.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f129692dfa32274e34ecf96680461a559623ca4f_1752139392.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 1915655,
+                    "title_fa": "پایه نگهدارنده گوشی موبایل و تبلت مدل ST01",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/112759362.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 1887000,
+                        "rrp_price": 2300000,
+                        "discount_percent": 18
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/151115182787/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f129692dfa32274e34ecf96680461a559623ca4f_1752139392.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "84011682079",
+            "title": "نوشابتو سالم بنوش",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                11399
+            ],
+            "user_setting_id": "93311592243",
+            "related_product_ids": [
+                341778
+            ],
+            "views_count": 3564,
+            "likes_count": 34,
+            "comments_count": 2,
+            "created_at": "2025-07-11 20:02:32",
+            "author": {
+                "id": "93311592243",
+                "name": "محدثه نامجو UNBOXIMO",
+                "username": "Unboximo",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2f5a2e8ee93b932ac50a577ceab217c8310d9093_1751543407.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281794,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/dVOQBJQxEP/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5627,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4e0e3f748b7750bb33b45854eed233990348f805_1752251556.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4e0e3f748b7750bb33b45854eed233990348f805_1752251556.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4e0e3f748b7750bb33b45854eed233990348f805_1752251556.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 341778,
+                    "title_fa": "سودا ساز آی سودا مدل Drinkmate",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/1416572.png?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 120833500,
+                        "rrp_price": 120833500,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/84011682079/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4e0e3f748b7750bb33b45854eed233990348f805_1752251556.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "87311080225",
+            "title": "یخ بدون آب!",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                6350
+            ],
+            "tag_ids": [
+                3211,
+                5885,
+                3496,
+                27955
+            ],
+            "user_setting_id": "76111301253",
+            "related_product_ids": [
+                14045349
+            ],
+            "views_count": 2837,
+            "likes_count": 9,
+            "comments_count": 2,
+            "created_at": "2025-07-10 08:47:02",
+            "author": {
+                "id": "76111301253",
+                "name": "گلبرگ پناه",
+                "username": "GolbargAp",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/f4f4ef686019ef664a83da7afb0c028e969f9b66_1729613282.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "marketplace_seller_id": 1508875,
+                "badge": {
+                    "id": 4,
+                    "title": "Seller",
+                    "code": "2",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/0c41e5da14fec7cde706f3850dd152b8e142cc9b_1736177619.png"
+                },
+                "seller_info": {
+                    "seller_id": 1508875,
+                    "seller_name": "تی کده برگ گل"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281623,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/gz8Vmjn0lJ/h_,360_800,480_1500,720_1840,k.mp4.list/master.m3u8",
+                    "ratio": 1.7744,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/2a09082d6e30aa1d09d69a323cb2a87181929999_1752124455.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/2a09082d6e30aa1d09d69a323cb2a87181929999_1752124455.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/2a09082d6e30aa1d09d69a323cb2a87181929999_1752124455.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 3211,
+                    "title": "کافه"
+                },
+                {
+                    "id": 5885,
+                    "title": "لوازم_آشپزخانه"
+                },
+                {
+                    "id": 3496,
+                    "title": "نوشیدنی"
+                },
+                {
+                    "id": 27955,
+                    "title": "قالب_یخ"
+                }
+            ],
+            "products": [
+                {
+                    "id": 14045349,
+                    "title_fa": "قالب یخ مدل 08 مجموعه 8 عددی به همراه انبر",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/14ca040fd77c9a6b902de4398286b92c90a210b7_1704847010.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 4100000,
+                        "rrp_price": 4100000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/87311080225/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/2a09082d6e30aa1d09d69a323cb2a87181929999_1752124455.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "48911359909",
+            "title": "یه قمقمه خوب ...",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                11181
+            ],
+            "tag_ids": [
+                26016
+            ],
+            "user_setting_id": "29911667551",
+            "related_product_ids": [
+                16467190
+            ],
+            "views_count": 2318,
+            "likes_count": 17,
+            "comments_count": 0,
+            "created_at": "2025-07-11 16:21:25",
+            "author": {
+                "id": "29911667551",
+                "name": "Awmiro",
+                "username": "Awmiro",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/70708c20f755898c5c86025253ef7f1a0b5de0d6_1729584672.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+            },
+            "media": [
+                {
+                    "id": 1281788,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/6yD0bqV2WN/h_,360_800,480_1500,720_1563,k.mp4.list/master.m3u8",
+                    "ratio": 0.5623,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e01a4282a12f464bb75db1700631026d49c93ff5_1752249114.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e01a4282a12f464bb75db1700631026d49c93ff5_1752249114.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e01a4282a12f464bb75db1700631026d49c93ff5_1752249114.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 26016,
+                    "title": "خریدمش"
+                }
+            ],
+            "products": [
+                {
+                    "id": 16467190,
+                    "title_fa": "قمقمه اس تی ییبن مدل کتابی بند دار کد YB-0792 گنجایش 0.7 لیتر",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/48323ddfc1edb6301a044387d13a980942bb011e_1724019775.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 6380000,
+                        "rrp_price": 6380000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/48911359909/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e01a4282a12f464bb75db1700631026d49c93ff5_1752249114.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "148116286405",
+            "title": "بزرگ و سنگین!! پاور ۳۰۰۰۰ بیسوس",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                1272
+            ],
+            "user_setting_id": "31211006373",
+            "related_product_ids": [
+                19257859
+            ],
+            "views_count": 3197,
+            "likes_count": 34,
+            "comments_count": 2,
+            "created_at": "2025-07-11 21:38:55",
+            "author": {
+                "id": "31211006373",
+                "name": "شایان نباتی مقدم",
+                "username": "Shayan.nm",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/40d03b5098ce0d478d26bb4c57a6bc1f5c12a2b1_1650892992.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281817,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/aPM36lr4We/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5625,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f0ddd17ca8a63b2392cbf11b089e9c09294dcc3f_1752257295.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f0ddd17ca8a63b2392cbf11b089e9c09294dcc3f_1752257295.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f0ddd17ca8a63b2392cbf11b089e9c09294dcc3f_1752257295.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 19257859,
+                    "title_fa": "پاوربانک بیسوس مدل AMPB15W ظرفیت 30000 میلی آمپر ساعت",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/b8946bb4a4c39c56ca881a42a75f02e471e98b0c_1747479017.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 21130000,
+                        "rrp_price": 21130000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/148116286405/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f0ddd17ca8a63b2392cbf11b089e9c09294dcc3f_1752257295.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "129119633185",
+            "title": "مشاوره خرید لباسشویی",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                5804
+            ],
+            "user_setting_id": "93311592243",
+            "related_product_ids": [
+                13787779,
+                17229556,
+                4181844,
+                10666226,
+                16309567
+            ],
+            "views_count": 1899,
+            "likes_count": 18,
+            "comments_count": 0,
+            "created_at": "2025-07-11 22:43:22",
+            "author": {
+                "id": "93311592243",
+                "name": "محدثه نامجو UNBOXIMO",
+                "username": "Unboximo",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2f5a2e8ee93b932ac50a577ceab217c8310d9093_1751543407.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281837,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/8dZzPZ5Mp3/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 1.7773,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/69c2b53c8db4caa6094375502bdaaf4f15092adc_1752261196.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/69c2b53c8db4caa6094375502bdaaf4f15092adc_1752261196.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/69c2b53c8db4caa6094375502bdaaf4f15092adc_1752261196.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 13787779,
+                    "title_fa": "ماشین لباسشویی گرین مدل GWM120BL1400 ظرفیت 12 کیلوگرم",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/8c967593f6e0ccaae03b036a1557ab774bd38096_1702926880.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 492750000,
+                        "rrp_price": 566000000
+                    }
+                },
+                {
+                    "id": 17229556,
+                    "title_fa": "ماشین لباسشویی 9 کیلوگرم اتوماتیک دوو مدل LM-990W",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/569c35c86f4a63b96cd5014f5d674ba1872a8c53_1730461863.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 389900000,
+                        "rrp_price": 410800000
+                    }
+                },
+                {
+                    "id": 4181844,
+                    "title_fa": "ماشین لباسشویی ایکس ویژن مدل TG72-BW/BS ظرفیت 7 کیلوگرم",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/eb7a7b86778f9e9f8d1e3c4f696710de1799d185_1609960208.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 216000000,
+                        "rrp_price": 264000000
+                    }
+                },
+                {
+                    "id": 10666226,
+                    "title_fa": "ماشین لباسشویی تی سی ال مدل K112-AWI ظرفیت 11 کیلوگرم",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/1666c13af57b4a4f79de5a665f869be80c1e6d8a_1676275843.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 340000000,
+                        "rrp_price": 340000000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 16309567,
+                    "title_fa": "ماشین لباسشویی 9 کیلوگرم اتوماتیک اسنوا مدل SWM-E92S",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/a6c8a9624107cc1d09c2960584432e39116fdd6f_1722957838.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 336000000,
+                        "rrp_price": 336000000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/129119633185/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/69c2b53c8db4caa6094375502bdaaf4f15092adc_1752261196.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "99411691082",
+            "title": "نکات مهم نصب لباسشویی",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                5804
+            ],
+            "user_setting_id": "93311592243",
+            "related_product_ids": [
+                15749536,
+                16714484,
+                4181844,
+                16452802
+            ],
+            "views_count": 2220,
+            "likes_count": 17,
+            "comments_count": 0,
+            "created_at": "2025-07-12 00:39:56",
+            "author": {
+                "id": "93311592243",
+                "name": "محدثه نامجو UNBOXIMO",
+                "username": "Unboximo",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2f5a2e8ee93b932ac50a577ceab217c8310d9093_1751543407.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281848,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/o8Za6Dg7AQ/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 1.7773,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fc6be7fa341c5644125d56409966ebbcbf57a3d8_1752268061.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fc6be7fa341c5644125d56409966ebbcbf57a3d8_1752268061.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fc6be7fa341c5644125d56409966ebbcbf57a3d8_1752268061.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 4181844,
+                    "title_fa": "ماشین لباسشویی ایکس ویژن مدل TG72-BW/BS ظرفیت 7 کیلوگرم",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/eb7a7b86778f9e9f8d1e3c4f696710de1799d185_1609960208.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 216000000,
+                        "rrp_price": 264000000
+                    }
+                },
+                {
+                    "id": 15749536,
+                    "title_fa": "ماشین لباسشویی 9 کیلوگرم اتوماتیک پاکشوما مدل  BWF 40902 iWT",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/f76cdf0693754823736fef105c687e297b197dbc_1718038531.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 280500000,
+                        "rrp_price": 349600000,
+                        "discount_percent": 20
+                    }
+                },
+                {
+                    "id": 16714484,
+                    "title_fa": "ماشین لباسشویی 9 کیلوگرم اتوماتیک اسنوا مدل SWM-F92S",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/c6ca33f830c93ba972dd49cffe9e62a97bc0a674_1726391055.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 316787000,
+                        "rrp_price": 390400000,
+                        "discount_percent": 19
+                    }
+                },
+                {
+                    "id": 16452802,
+                    "title_fa": "ماشین لباسشویی 7 کیلوگرم اتوماتیک دوو مدل  LM-720W",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/c5343bafecf38827f8e145572fe3b4d13de4d854_1723899056.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 248850000,
+                        "rrp_price": 272700000
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/99411691082/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fc6be7fa341c5644125d56409966ebbcbf57a3d8_1752268061.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "92811430733",
+            "title": "iOS 26 اینجاست",
+            "caption": "شاید براتون سوال باشه که تغییرات ios26 چیا بودن؟\nباگ داره یا نداره؟\nاصن نصبش کنیم یا نه؟!\nتوی این ویدیو، همشو گفتم!",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                11
+            ],
+            "tag_ids": [
+                2271,
+                7312,
+                2300,
+                2526,
+                255
+            ],
+            "user_setting_id": "64911211453",
+            "related_product_ids": [
+                8366616
+            ],
+            "views_count": 4148,
+            "likes_count": 54,
+            "comments_count": 2,
+            "created_at": "2025-07-11 23:29:50",
+            "author": {
+                "id": "64911211453",
+                "name": "حمید صداقت",
+                "username": "mobo_studio",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/10e5f08735c7a0f79ae72891a02a47a8d4be914e_1659856355.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281857,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/JKPLrJLwlz/h_,360_800,480_1247,720_1247,k.mp4.list/master.m3u8",
+                    "ratio": 1.7778,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6c8e7d535b255c35d5e0307807212f7aed410ee7_1752263962.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6c8e7d535b255c35d5e0307807212f7aed410ee7_1752263962.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6c8e7d535b255c35d5e0307807212f7aed410ee7_1752263962.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 2271,
+                    "title": "آیفون_۱۴"
+                },
+                {
+                    "id": 7312,
+                    "title": "آیفون_13_پرومکس"
+                },
+                {
+                    "id": 2300,
+                    "title": "آیفون_13"
+                },
+                {
+                    "id": 2526,
+                    "title": "ایفون"
+                },
+                {
+                    "id": 255,
+                    "title": "آیفون"
+                }
+            ],
+            "products": [
+                {
+                    "id": 8366616,
+                    "title_fa": "گوشی موبایل اپل مدل iPhone 13 CH دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت - نات اکتیو",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/8da0ac0e9c414ff6bc745cd6b032ef61e6d93cf1_1730113501.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 617000000,
+                        "rrp_price": 617000000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/92811430733/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6c8e7d535b255c35d5e0307807212f7aed410ee7_1752263962.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "162113054526",
+            "title": "این قلاده کوله پشتی داره",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                8721,
+                8723
+            ],
+            "tag_ids": [
+                11262,
+                1,
+                26016,
+                26567
+            ],
+            "user_setting_id": "2301152685",
+            "related_product_ids": [
+                14732606,
+                13849686,
+                14775728,
+                14787338,
+                14775492,
+                14775712
+            ],
+            "views_count": 1604,
+            "likes_count": 20,
+            "comments_count": 0,
+            "created_at": "2025-07-11 06:32:30",
+            "author": {
+                "id": "2301152685",
+                "name": "سحر محمدی",
+                "username": "sahar.mohammadi",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2dd657c8a7f177d5d54727a45bc879dd7ed7888c_1723251766.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281724,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/bj7qQMqYQ6/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5623,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4105dfd094dd1e5b52d7b291443f6ad380205f06_1752226015.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4105dfd094dd1e5b52d7b291443f6ad380205f06_1752226015.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4105dfd094dd1e5b52d7b291443f6ad380205f06_1752226015.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 11262,
+                    "title": "خرید_با_چشمان_باز"
+                },
+                {
+                    "id": 1,
+                    "title": "پیشنهاد_خرید"
+                },
+                {
+                    "id": 26016,
+                    "title": "خریدمش"
+                },
+                {
+                    "id": 26567,
+                    "title": "سحر_محمدی"
+                }
+            ],
+            "products": [
+                {
+                    "id": 14732606,
+                    "title_fa": "قلاده کتفی سگ و گربه مدل کوله پشتی دار کد h2",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/fe950cde64614ecaebd7c36bb601bfc7cc291019_1710011194.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 6430000,
+                        "rrp_price": 6430000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 13849686,
+                    "title_fa": "کوله پشتی سگ و گربه مدل قلاده دار",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/2f919e7f388acb5e449aa0994aec994bc0ee282f_1703413468.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 6330000,
+                        "rrp_price": 6330000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 14775728,
+                    "title_fa": "قلاده کتفی سگ مدل کوله پشتی کد h6",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/f72cf231f63248e6ed07f4da441fd171c067fe57_1710044996.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 6430000,
+                        "rrp_price": 6430000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 14787338,
+                    "title_fa": "قلاده کتفی سگ مدل کوله پشتی دار سایز بزرگ کد h7",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/76ac69b3460960f9cb331ecf91f1923372fb59a3_1710129213.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 6160000,
+                        "rrp_price": 6160000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 14775492,
+                    "title_fa": "قلاده کتفی سگ و گربه مدل کوله پشتی دار سایز بزرگ کد h3",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/958312a76e3f2980db85bcac184047bcc5e3acf2_1710042609.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 7130000,
+                        "rrp_price": 7130000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 14775712,
+                    "title_fa": "قلاده کتفی سگ مدل کوله پشتی دار کد h5",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/f72cf231f63248e6ed07f4da441fd171c067fe57_1710044845.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 7130000,
+                        "rrp_price": 7130000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/162113054526/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4105dfd094dd1e5b52d7b291443f6ad380205f06_1752226015.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "213116041314",
+            "title": "عجیب‌ترین رکوردر صدا",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                62
+            ],
+            "user_setting_id": "185114339183",
+            "related_product_ids": [
+                16029155,
+                13335595,
+                11474358,
+                13083001,
+                13326252,
+                18344220,
+                18344262
+            ],
+            "views_count": 37539,
+            "likes_count": 242,
+            "comments_count": 10,
+            "created_at": "2025-06-22 01:08:54",
+            "author": {
+                "id": "185114339183",
+                "name": "سجاد آینه چی",
+                "username": "sajjadayenechi",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/42b5ac025558fc5c2b83ce26bd35a5b56feddcfd_1740581920.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1280151,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/My5QZMkmrA/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5625,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4118a89184bf507b6c022ef72d4b410f1dc5ce49_1750860082.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4118a89184bf507b6c022ef72d4b410f1dc5ce49_1750860082.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4118a89184bf507b6c022ef72d4b410f1dc5ce49_1750860082.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 16029155,
+                    "title_fa": "ضبط کننده صدا مدل GT-7770",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/e9a3cd7478e9befe84cbe0fb7f87c2ea26e62918_1720623615.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 16530000,
+                        "rrp_price": 17400000,
+                        "discount_percent": 5
+                    }
+                },
+                {
+                    "id": 13335595,
+                    "title_fa": "ضبط کننده صدا مدل SK-895",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/bdc801f758ffd7c908ce55bf0b0317b82e508ea7_1699786427.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": []
+                },
+                {
+                    "id": 11474358,
+                    "title_fa": "ضبط كننده صدا مدل GT-7750",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/6794ace7e87e97f3d940a1bb5f7579e0847b4c58_1685269134.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": []
+                },
+                {
+                    "id": 13083001,
+                    "title_fa": "ضبط کننده صدا مدل GT-7750i ",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/6794ace7e87e97f3d940a1bb5f7579e0847b4c58_1697976600.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": []
+                },
+                {
+                    "id": 13326252,
+                    "title_fa": "ضبط کننده صدا مدل SK892",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/bdc801f758ffd7c908ce55bf0b0317b82e508ea7_1699721234.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": []
+                },
+                {
+                    "id": 18344220,
+                    "title_fa": "ضبط کننده صدا مدل GT-7750 کد 16G",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/ea1518de3ff3db0de0c0607147ef66ce179a48d8_1739716572.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": []
+                },
+                {
+                    "id": 18344262,
+                    "title_fa": "ضبط کننده صدا مدل GT-7750 کد 8G",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/ea1518de3ff3db0de0c0607147ef66ce179a48d8_1739716803.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": []
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/213116041314/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4118a89184bf507b6c022ef72d4b410f1dc5ce49_1750860082.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "172113307988",
+            "title": "چالش‌های داشتن اسکوتر",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                8020
+            ],
+            "user_setting_id": "28911378569",
+            "related_product_ids": [
+                17113505
+            ],
+            "views_count": 18249,
+            "likes_count": 246,
+            "comments_count": 26,
+            "created_at": "2025-07-10 16:16:53",
+            "author": {
+                "id": "28911378569",
+                "name": "آرین ابرونی",
+                "username": "ArianAbrouni",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/a1250500f4ecb5ad706ab578a19c235f86c83585_1716202955.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281668,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/Mg4y7Ra3l5/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5625,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9b0fe05ee4aa5bec568a3e05cbdea99bc8de755a_1752151611.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9b0fe05ee4aa5bec568a3e05cbdea99bc8de755a_1752151611.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9b0fe05ee4aa5bec568a3e05cbdea99bc8de755a_1752151611.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 17113505,
+                    "title_fa": "اسکوتر برقی شیائومی مدل 4lite gen2",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/24e0d5afdca57a4b940dd2c0b0c0ecaaeb0f8017_1729604181.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 345000000,
+                        "rrp_price": 470000000,
+                        "discount_percent": 27
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/172113307988/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9b0fe05ee4aa5bec568a3e05cbdea99bc8de755a_1752151611.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "184119878592",
+            "title": "چرا رنگاش تکراری بود؟!🥺",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                5979
+            ],
+            "tag_ids": [
+                1,
+                11262,
+                26016
+            ],
+            "user_setting_id": "53211855998",
+            "related_product_ids": [
+                15651793
+            ],
+            "views_count": 4010,
+            "likes_count": 25,
+            "comments_count": 0,
+            "created_at": "2025-07-10 14:32:14",
+            "author": {
+                "id": "53211855998",
+                "name": "ثمیلا قاسمی نژاد",
+                "username": "this_is_saamii",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/947440492037797142447c0930202f142ffd30b5_1733339598.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281660,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/9ROMw6dnWZ/h_,360_696,480_696,k.mp4.list/master.m3u8",
+                    "ratio": 0.5617,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a74321c2c8021f38d7b8d32d545678a56885f652_1752145314.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a74321c2c8021f38d7b8d32d545678a56885f652_1752145314.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a74321c2c8021f38d7b8d32d545678a56885f652_1752145314.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 1,
+                    "title": "پیشنهاد_خرید"
+                },
+                {
+                    "id": 11262,
+                    "title": "خرید_با_چشمان_باز"
+                },
+                {
+                    "id": 26016,
+                    "title": "خریدمش"
+                }
+            ],
+            "products": [
+                {
+                    "id": 15651793,
+                    "title_fa": "ماژیک چند منظوره مدل اکریلیک کد GA102 مجموعه 12 عددی",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/922c6594d7811f959995c53b2862e2d0b9589a25_1717494363.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 2370000,
+                        "rrp_price": 2370000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/184119878592/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a74321c2c8021f38d7b8d32d545678a56885f652_1752145314.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "90211442973",
+            "title": "کامل‌ترین میکروفن گیمینگ",
+            "caption": "در واقع بهترین میکروفن مخصوص گیمینگ در رده‌ی قیمت زیر ده میلیون تومن که تا الان تست کردم👌",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                8191
+            ],
+            "tag_ids": [
+                557,
+                1248,
+                5930,
+                27731,
+                11262,
+                1
+            ],
+            "user_setting_id": "185114339183",
+            "related_product_ids": [
+                17899664,
+                17691655
+            ],
+            "views_count": 24920,
+            "likes_count": 132,
+            "comments_count": 15,
+            "created_at": "2025-06-24 14:30:46",
+            "author": {
+                "id": "185114339183",
+                "name": "سجاد آینه چی",
+                "username": "sajjadayenechi",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/42b5ac025558fc5c2b83ce26bd35a5b56feddcfd_1740581920.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1280306,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/YjAwoe2VQl/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5625,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ad5e725750fd9f0087ac3b8ff9bec90548523d71_1750881388.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ad5e725750fd9f0087ac3b8ff9bec90548523d71_1750881388.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ad5e725750fd9f0087ac3b8ff9bec90548523d71_1750881388.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 557,
+                    "title": "گیم"
+                },
+                {
+                    "id": 1248,
+                    "title": "میکروفون"
+                },
+                {
+                    "id": 5930,
+                    "title": "میکروفن"
+                },
+                {
+                    "id": 27731,
+                    "title": "سجاد_آینه_چی"
+                },
+                {
+                    "id": 11262,
+                    "title": "خرید_با_چشمان_باز"
+                },
+                {
+                    "id": 1,
+                    "title": "پیشنهاد_خرید"
+                }
+            ],
+            "products": [
+                {
+                    "id": 17899664,
+                    "title_fa": "میکروفون استودیویی فای فاین مدل AM6",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/7df11713d72671d3082a7e41d5d79f532bb94a81_1736080818.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 72800000,
+                        "rrp_price": 72800000,
+                        "discount_percent": 0
+                    }
+                },
+                {
+                    "id": 17691655,
+                    "title_fa": "میکروفن کندانسر گیمینگ فای فاین مدل AM6T",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/78551b93e47fd038dc7d1dce92feb0665e9dcfc2_1735713555.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 115000000,
+                        "rrp_price": 115000000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/90211442973/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ad5e725750fd9f0087ac3b8ff9bec90548523d71_1750881388.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "52311329423",
+            "title": "کول پد گیمینگ Redragon 🎮",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                98
+            ],
+            "user_setting_id": "31211006373",
+            "related_product_ids": [
+                19010794
+            ],
+            "views_count": 2553,
+            "likes_count": 25,
+            "comments_count": 3,
+            "created_at": "2025-07-11 21:44:04",
+            "author": {
+                "id": "31211006373",
+                "name": "شایان نباتی مقدم",
+                "username": "Shayan.nm",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/40d03b5098ce0d478d26bb4c57a6bc1f5c12a2b1_1650892992.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281823,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/lomJblka0A/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5624,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0784927c986f008f874de19b6c26e88c89b91d4c_1752257598.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0784927c986f008f874de19b6c26e88c89b91d4c_1752257598.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0784927c986f008f874de19b6c26e88c89b91d4c_1752257598.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 19010794,
+                    "title_fa": "پایه خنک کننده  لپ تاپ ردراگون مدل IVY GCP500",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/e0693215d5de80b3fd703db88a1ef241627f81f6_1745222134.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 27000000,
+                        "rrp_price": 27000000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/52311329423/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0784927c986f008f874de19b6c26e88c89b91d4c_1752257598.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "7351132900",
+            "title": "این اسپیکر فراتر از انتظاره!",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                25
+            ],
+            "user_setting_id": "183110521829",
+            "related_product_ids": [
+                15589676
+            ],
+            "views_count": 2116,
+            "likes_count": 17,
+            "comments_count": 0,
+            "created_at": "2025-07-10 12:52:33",
+            "author": {
+                "id": "183110521829",
+                "name": "محمد یوسفی زاده ",
+                "username": "Yousefizadeh",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2870ce5d631efc7989193ee7adea81213230ea42_1733140542.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281635,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/dmMPljqwnK/h_,360_697,480_697,k.mp4.list/master.m3u8",
+                    "ratio": 0.6667,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/80e4568208988c69b7cddda15755b386b7d0f49e_1752139334.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/80e4568208988c69b7cddda15755b386b7d0f49e_1752139334.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/80e4568208988c69b7cddda15755b386b7d0f49e_1752139334.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 15589676,
+                    "title_fa": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 23125",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/fcf17f078a45ecd09809a61eaae1c61d2609b5c4_1716879015.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 14960000,
+                        "rrp_price": 14960000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/7351132900/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/80e4568208988c69b7cddda15755b386b7d0f49e_1752139334.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "24911325287",
+            "title": "لباست و تمیز نگهدار",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                6429
+            ],
+            "user_setting_id": "75111955458",
+            "related_product_ids": [
+                8615608
+            ],
+            "views_count": 3524,
+            "likes_count": 17,
+            "comments_count": 7,
+            "created_at": "2025-07-11 22:24:27",
+            "author": {
+                "id": "75111955458",
+                "name": "مهدی شیری",
+                "username": "Mahdi.shiri",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/4353faaaf228006ea9b779f35eab053a883cc4ab_1683895928.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+            },
+            "media": [
+                {
+                    "id": 1281833,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/2KZDAqDeWw/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5633,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/01372174f84f3503c059c374810ec95cd043a9e3_1752260058.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/01372174f84f3503c059c374810ec95cd043a9e3_1752260058.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/01372174f84f3503c059c374810ec95cd043a9e3_1752260058.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "products": [
+                {
+                    "id": 8615608,
+                    "title_fa": "پرزگیر برقی لباس میجیا  مدل MQXJQ01KL+MQXJQ01KLDT به همراه سری یدک",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/109113efc4667ca3349105add5ff95098408fb79_1653718296.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 16990000,
+                        "rrp_price": 16990000,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/24911325287/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/01372174f84f3503c059c374810ec95cd043a9e3_1752260058.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "58911589772",
+            "title": "معجزه گرم",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                2404
+            ],
+            "tag_ids": [
+                21919,
+                10685,
+                11262,
+                1,
+                26016
+            ],
+            "user_setting_id": "137111347662",
+            "related_product_ids": [
+                13693773
+            ],
+            "views_count": 2194,
+            "likes_count": 14,
+            "comments_count": 1,
+            "created_at": "2025-07-11 22:46:10",
+            "author": {
+                "id": "137111347662",
+                "name": "درسا اصل زاد",
+                "username": "beauty.show",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2f5d6dbe291d18b36f53ce6675329dcdd0227ae1_1688844136.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "marketplace_seller_id": 771012,
+                "badge": {
+                    "id": 4,
+                    "title": "Seller",
+                    "code": "2",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/0c41e5da14fec7cde706f3850dd152b8e142cc9b_1736177619.png"
+                },
+                "seller_info": {
+                    "seller_id": 771012,
+                    "seller_name": "مینیسا"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281838,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/o4qQXeGvK0/h_,360_691,480_691,k.mp4.list/master.m3u8",
+                    "ratio": 0.5626,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fcee57054c40a4184177baeaf0a98c97f9a47ae4_1752262558.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fcee57054c40a4184177baeaf0a98c97f9a47ae4_1752262558.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fcee57054c40a4184177baeaf0a98c97f9a47ae4_1752262558.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 21919,
+                    "title": "بخور_گرم"
+                },
+                {
+                    "id": 10685,
+                    "title": "دستگاه_بخور"
+                },
+                {
+                    "id": 11262,
+                    "title": "خرید_با_چشمان_باز"
+                },
+                {
+                    "id": 1,
+                    "title": "پیشنهاد_خرید"
+                },
+                {
+                    "id": 26016,
+                    "title": "خریدمش"
+                }
+            ],
+            "products": [
+                {
+                    "id": 13693773,
+                    "title_fa": "دستگاه بخور گرم آنی ساز مدل MF2010",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/b365f8f2d34a4dd9122a64ecf3a859c8c45c41d4_1702290583.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 3212000,
+                        "rrp_price": 3650000,
+                        "discount_percent": 12
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/58911589772/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fcee57054c40a4184177baeaf0a98c97f9a47ae4_1752262558.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        },
+        {
+            "id": "75311101684",
+            "title": "کرمپودر با کاور مناسب",
+            "caption": "",
+            "type": "post",
+            "status": "verified",
+            "category_ids": [
+                6462
+            ],
+            "tag_ids": [
+                24016,
+                26857,
+                11262,
+                1
+            ],
+            "user_setting_id": "130118891755",
+            "related_product_ids": [
+                1541866
+            ],
+            "views_count": 3848,
+            "likes_count": 27,
+            "comments_count": 0,
+            "created_at": "2025-07-11 02:58:10",
+            "author": {
+                "id": "130118891755",
+                "name": "سحر جانباز",
+                "username": "cosmuty_",
+                "photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/c3b83574c7f24347f79847a46ebb605165fa6fa5_1724026718.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+                "badge": {
+                    "id": 2,
+                    "title": "blue tick",
+                    "code": "1",
+                    "logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+                }
+            },
+            "media": [
+                {
+                    "id": 1281722,
+                    "status": "verified",
+                    "type": "video",
+                    "url": "https://digikala.arvanvod.ir/qwkg7wg610/RW8k16bVQp/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+                    "ratio": 0.5627,
+                    "cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/071cb2b211ca0e3e2b81dbfdebd368afbbabb569_1752190087.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+                    "cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/071cb2b211ca0e3e2b81dbfdebd368afbbabb569_1752190087.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+                    "cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/071cb2b211ca0e3e2b81dbfdebd368afbbabb569_1752190087.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 24016,
+                    "title": "سحر_جانباز"
+                },
+                {
+                    "id": 26857,
+                    "title": "کرمپودر"
+                },
+                {
+                    "id": 11262,
+                    "title": "خرید_با_چشمان_باز"
+                },
+                {
+                    "id": 1,
+                    "title": "پیشنهاد_خرید"
+                }
+            ],
+            "products": [
+                {
+                    "id": 1541866,
+                    "title_fa": "کرم پودر فاقد چربی لوسمنت با SPF30 شماره L211 حجم 30 میلی لیتر",
+                    "images": {
+                        "main": "https://dkstatics-public.digikala.com/digikala-products/110752370.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+                    },
+                    "price": {
+                        "selling_price": 8396600,
+                        "rrp_price": 8396600,
+                        "discount_percent": 0
+                    }
+                }
+            ],
+            "share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. \nhttps://www.digikala.com/magnet/posts/75311101684/",
+            "circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/071cb2b211ca0e3e2b81dbfdebd368afbbabb569_1752190087.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+        }
+    ]
+}
