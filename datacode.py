@@ -1,17 +1,20 @@
 import json
 import os
 
-desktop_path = os.path.join(os.path.expanduser("~"), "Desktop", "datadata.txt")
+def find_names(data):
+    if isinstance(data, dict):
+        for key, value in data.items():
+            if key == "name":
+                print(value)
+            else:
+                find_names(value)
+    elif isinstance(data, list):
+        for item in data:
+            find_names(item)
 
-with open(desktop_path, "r", encoding="utf-8") as file:
-    data = json.load(file)
+open_file = os.path.join(os.path.expanduser("~"), "Desktop", "home-page.txt")
 
-if isinstance(data, dict):
-    print(" کلیدهای اصلی:")
-    for key in data:
-        print("-", key)
-else:
-    msg = f" فایل نوعش دیکشنری نیست: {type(data)}"
-    print(msg)
-    with open("key.txt", "w", encoding="utf-8") as f:
-        f.write(msg)
+with open(open_file, "r", encoding="utf-8") as file:
+    read = json.load(file)
+print("اسم کسانی که پست گذاشته اند:")
+find_names(read)
