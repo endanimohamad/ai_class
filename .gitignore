@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 datacode.py
+tamrin.py
