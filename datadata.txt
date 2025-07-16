@@ -1,0 +1,42 @@
+{
+  "results": [
+    {
+      "badges": [],
+      "discount_info": [],
+      "random_key": "889b1641-4ab5-4e1b-8e20-03d170337de4"
+    }
+  ],
+  "attributes": [
+    {
+      "title": "انتخاب برند",
+      "slug": "brand",
+      "type": "brand",
+      "badge_text": "",
+      "items": []
+    },
+    {
+      "title": "امکان خرید حضوری",
+      "slug": "shop_type",
+      "type": "shop_type",
+      "badge_text": "",
+      "items": []
+    },
+    {
+      "title": "حافظه داخلی",
+      "slug": "storage",
+      "type": "multiple_choice",
+      "badge_text": "",
+      "items": []
+    }
+  ],
+  "count": 36,
+  "max_price": 2000040000,
+  "min_price": 0,
+  "seo_title": "",
+  "seo_description": "",
+  "spellcheck": {
+    "is_spellchecked": false,
+    "initial_query": "گوشی سامسونگ",
+    "corrected_query": ""
+  }
+}
