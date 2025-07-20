@@ -2,13 +2,13 @@ import json
 import os
 #تست فایل
 def read_json_file():
-    desktop_path = os.path.join(os.path.expanduser("~"), "Desktop", "home-page.txt")
     try:
+        desktop_path = os.path.join("D:\\", "home-page.txt")
         with open(desktop_path, "r", encoding="utf-8") as file:
             data = json.load(file)
             return data
     except FileNotFoundError:
-        print("❌ فایل یافت نشد. لطفاً مطمئن شوید فایل 'home-page.txt' روی دسکتاپ وجود دارد.")
+        print("❌ فایل یافت نشد. لطفاً مطمئن شوید فایل 'home-page.txt' روی درایو D وجود دارد.")
     except json.JSONDecodeError:
         print("❌ خطا در خواندن فایل JSON. ممکن است فایل خراب یا ناصحیح باشد.")
     except Exception as e:
@@ -98,7 +98,7 @@ for dtype, count in type_counts.items():
 
 print("==========="*15)
 
-import statistics
+import  statistics
 
 def extract_numbers(data, numbers=None):
     if numbers is None:
@@ -114,7 +114,6 @@ def extract_numbers(data, numbers=None):
         numbers.append(data)
 
     return numbers
-
 # استخراج مقادیر عددی
 numbers = extract_numbers(data)
 
