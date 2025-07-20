@@ -3,8 +3,8 @@ import os
 #تست فایل
 def read_json_file():
     try:
-        desktop_path = os.path.join("D:\\", "home-page.txt")
-        with open(desktop_path, "r", encoding="utf-8") as file:
+        path = os.path.join("D:\\", "home-page.txt")
+        with open(path, "r", encoding="utf-8") as file:
             data = json.load(file)
             return data
     except FileNotFoundError:
@@ -143,7 +143,7 @@ def analyze_text_data(data, text_list=None):
         text_list.append(data)
 
     return text_list
-text_data = analyze_text_data(data)  
+text_data = analyze_text_data(data)
 
 total_strings = len(text_data)
 unique_strings = len(set(text_data))
