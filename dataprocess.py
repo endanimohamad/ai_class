@@ -143,7 +143,7 @@ def analyze_text_data(data, text_list=None):
         text_list.append(data)
 
     return text_list
-text_data = analyze_text_data(data)  # جایگزین کن با داده‌ی خودت
+text_data = analyze_text_data(data)  
 
 total_strings = len(text_data)
 unique_strings = len(set(text_data))
