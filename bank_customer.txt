@@ -1,0 +1,82 @@
+[
+    {
+        "name": "علی", "last_name": "رضایی", "age": 28, "gender": "مرد",
+        "province": "تهران", "city": "تهران", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "شیعه", "account_activity": 12500000,
+        "income_this_month": 8500000, "withdraw_this_month": 4300000, "deposit_this_month": 5000000,
+        "phone_number": "09121234567", "installment_amount": 1500000,
+        "education": "کارشناسی", "work_experience": 5, "birth_day": "1996-03-15"
+    },
+    {
+        "name": "نگار", "last_name": "کاظمی", "age": 24, "gender": "زن",
+        "province": "اصفهان", "city": "اصفهان", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "شیعه", "account_activity": 8900000,
+        "income_this_month": 6000000, "withdraw_this_month": 2900000, "deposit_this_month": 3100000,
+        "phone_number": "09351112233", "installment_amount": 800000,
+        "education": "کارشناسی ارشد", "work_experience": 2, "birth_day": "1999-07-02"
+    },
+    {
+        "name": "محمد", "last_name": "کریمی", "age": 35, "gender": "مرد",
+        "province": "مشهد", "city": "مشهد", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "شیعه", "account_activity": 17500000,
+        "income_this_month": 12000000, "withdraw_this_month": 5500000, "deposit_this_month": 6000000,
+        "phone_number": "09151112233", "installment_amount": 2000000,
+        "education": "دکتری", "work_experience": 10, "birth_day": "1989-01-20"
+    },
+    {
+        "name": "سارا", "last_name": "مرادی", "age": 31, "gender": "زن",
+        "province": "فارس", "city": "شیراز", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "سنی", "account_activity": 9500000,
+        "income_this_month": 7000000, "withdraw_this_month": 2000000, "deposit_this_month": 4000000,
+        "phone_number": "09301234567", "installment_amount": 1000000,
+        "education": "کارشناسی", "work_experience": 6, "birth_day": "1993-09-12"
+    },
+    {
+        "name": "پویا", "last_name": "نعمتی", "age": 22, "gender": "مرد",
+        "province": "گیلان", "city": "رشت", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "شیعه", "account_activity": 5700000,
+        "income_this_month": 3200000, "withdraw_this_month": 1500000, "deposit_this_month": 2000000,
+        "phone_number": "09111334455", "installment_amount": 600000,
+        "education": "دیپلم", "work_experience": 1, "birth_day": "2002-04-08"
+    },
+    {
+        "name": "الهام", "last_name": "عبدی", "age": 27, "gender": "زن",
+        "province": "آذربایجان شرقی", "city": "تبریز", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "شیعه", "account_activity": 10200000,
+        "income_this_month": 7800000, "withdraw_this_month": 2500000, "deposit_this_month": 3500000,
+        "phone_number": "09382223344", "installment_amount": 900000,
+        "education": "کارشناسی", "work_experience": 4, "birth_day": "1997-06-21"
+    },
+    {
+        "name": "کامران", "last_name": "نوروزی", "age": 30, "gender": "مرد",
+        "province": "مازندران", "city": "ساری", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "شیعه", "account_activity": 11000000,
+        "income_this_month": 8500000, "withdraw_this_month": 3000000, "deposit_this_month": 4000000,
+        "phone_number": "09112123456", "installment_amount": 1200000,
+        "education": "کارشناسی ارشد", "work_experience": 7, "birth_day": "1994-02-25"
+    },
+    {
+        "name": "نازنین", "last_name": "احمدی", "age": 26, "gender": "زن",
+        "province": "البرز", "city": "کرج", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "شیعه", "account_activity": 9800000,
+        "income_this_month": 7200000, "withdraw_this_month": 2200000, "deposit_this_month": 3600000,
+        "phone_number": "09361234567", "installment_amount": 950000,
+        "education": "کارشناسی", "work_experience": 3, "birth_day": "1998-11-03"
+    },
+    {
+        "name": "یوسف", "last_name": "شعبانی", "age": 40, "gender": "مرد",
+        "province": "کردستان", "city": "سنندج", "nationality": "ایرانی",
+        "religion": "اسلام", "sect": "سنی", "account_activity": 16000000,
+        "income_this_month": 11000000, "withdraw_this_month": 6000000, "deposit_this_month": 5000000,
+        "phone_number": "09187778899", "installment_amount": 1800000,
+        "education": "فوق دیپلم", "work_experience": 15, "birth_day": "1984-12-18"
+    },
+    {
+        "name": "پریناز", "last_name": "صالحی", "age": 29, "gender": "زن",
+        "province": "یزد", "city": "یزد", "nationality": "ایرانی",
+        "religion": "زرتشتی", "sect": "ندارد", "account_activity": 6700000,
+        "income_this_month": 5000000, "withdraw_this_month": 1600000, "deposit_this_month": 1800000,
+        "phone_number": "09398887766", "installment_amount": 700000,
+        "education": "کارشناسی", "work_experience": 5, "birth_day": "1995-05-11"
+    }
+]
