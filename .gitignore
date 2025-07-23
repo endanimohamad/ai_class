@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 datacode.py
 tamrin.py
+New folder/.idea/workspace.xml
