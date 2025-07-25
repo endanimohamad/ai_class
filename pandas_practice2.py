@@ -36,7 +36,7 @@ def conditions():
 
   return sort_age_people[['name', 'last_name', 'age', 'income']]
 
-print(f' \n                                                                                      :افراد واجد شرایط دریافت وام{conditions()}')
+print(f'    :افراد واجد شرایط دریافت وام{conditions()}')
 
 
 def calculation():
@@ -51,16 +51,16 @@ def calculation():
   income_median = df['income'].median()
   print(f' : میانه(تقریبا متوسط) درامدی افراد متقاضی وام: {income_median}')
   print("\n")
-  age_mode = df['age'].mode().iloc[0]
+  age_mode = df['age'].mode()
   print(f' نمای (بیشترین) سن پرتکرا افراد متقاضی وام: {age_mode}')
 
-  name_mode = df['name'].mode().iloc[0]
+  name_mode = df['name'].mode()
   print(f' : نمای (بیشترین) اسم پرتکرا افراد متقاضی وام: {name_mode}')
 
-  car_mode = df['car'].mode().iloc[0]
+  car_mode = df['car'].mode()
   print(f'  نمای (بیشترین) ماشین پرتکرا افراد متقاضی وام: {car_mode}')
 
-  education_mode = df['education'].mode().iloc[0]
+  education_mode = df['education'].mode()
   print(f'  نمای (بیشترین) مدرک تحصیلی پرتکرا افراد متقاضی وام: {education_mode}')
 
 calculation()
