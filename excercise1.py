@@ -14,22 +14,24 @@ def create_dataframe():
     return data_frame
 
 
-# میانگین سن‌ها و درآمدها چقدره؟ (یعنی به طور میانگین، بچه‌ها چند ساله‌ان و چقدر می‌گیرن؟)
-# میانه‌شون چیه؟ ببین وسط عددها کدوم عدد وایساده؟
-# کدوم مقدار توی income و age بیشتر از همه تکرار شده؟ اسمش چیه؟ (یعنی نماش!)
+
 def calculations():
     age_mean = df['age'].mean()
     income_mean = df['income'].mean()
-    mode_age = df['age'].mode()
-    mode_income = df['income'].mode()
-    print(mode_income)
-    list_mode_age = list(mode_age)
-    names = df[df['age'].isin(list_mode_age)][['name', 'last_name', 'age']].values.tolist()
-    print(f'اسم افرادی که شباهت سنی دارند:\n')
-    print(names)
+    age_mode = df['age'].mode().tolist()
+    income_mode = df['income'].mode().tolist()
+    names = df[df['age'].isin(age_mode)][['name', 'last_name', 'age']].values.tolist()
+    return age_mean, income_mean, age_mode, income_mode, names
 
 
 if __name__ == "__main__":
     show_json_file()
     df = create_dataframe()
-    calculations()
+    age_mean, income_mean, age_mode, income_mode, names = calculations()
+    print(f"\nمیانگین سن: {age_mean}")
+    print(f"میانگین درآمد: {income_mean}")
+    print(f"پرتکرارترین سن‌ها: {age_mode}")
+    print(f"پرتکرارترین درآمدها: {income_mode}")
+    print("\nافرادی با سن پرتکرار:")
+    for person in names:
+        print(person)
